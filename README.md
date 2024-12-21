@@ -19,13 +19,13 @@ Ikuti langkah-langkah berikut untuk menjalankan Nodepay Checker 888:
 ### 1. Clone Repositori 🛠️
 
 ```bash
-$ git clone https://github.com/marioatmajanugraha/NodepayChecker888.git
+git clone https://github.com/marioatmajanugraha/NodepayChecker888.git
 ```
 
 ### 2. Masuk ke Direktori Proyek 📂
 
 ```bash
-$ cd NodepayChecker888
+cd NodepayChecker888
 ```
 
 ### 3. Masukkan Token Anda 📝
@@ -44,7 +44,7 @@ TOKEN_3
 Gunakan perintah berikut untuk menjalankan skrip:
 
 ```bash
-$ python Checker888.py
+python Checker888.py
 ```
 
 ---
